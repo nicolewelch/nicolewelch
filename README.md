@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Nicole Welch 👋
 
+![github](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)  
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nicolewelch.visitor-badge)  
 <!--
 **nicolewelch/nicolewelch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
