@@ -1,7 +1,7 @@
 ## Hi there, I'm Nicole Welch 👋
 
 [![github](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nicole-welch-36a584206/)  
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nicolewelch.visitor-badge)     
+
   I am a new graduate from MSU Denver in computer science. I am passionate about computing and I am excited to learn so much more about all things computers!  
 I also enjoy: Mathematics, Physics, Information Theory, Space, Quantum Computers, Baking, and Cats.   
 
